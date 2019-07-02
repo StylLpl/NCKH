@@ -3,7 +3,7 @@
 *.pyc
 
 # Weight files
-bin/
+#bin/
 
 # Sample image data
 sample_img/*.jpg
@@ -17,7 +17,7 @@ results/
 backup/
 tfnet/yolo/parse-history.txt
 tfnet/yolo/*.parsed
-*.txt
+#*.txt
 !requirements*.txt
 *.pb
 /profile
